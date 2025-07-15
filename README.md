@@ -45,7 +45,8 @@ We captured and analyzed network traffic to find out who sent harassing emails i
 
 ## 👤 Author
 
-**Sanithu Methnuka (s8170551)**  
+**Sanithu Methnuka** 
+**Laseya Wimalasiri** 
 
 ---
 
