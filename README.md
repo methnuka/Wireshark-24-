@@ -45,8 +45,8 @@ We captured and analyzed network traffic to find out who sent harassing emails i
 
 ## 👤 Author
 
-**Sanithu Methnuka** 
-**Laseya Wimalasiri** 
+- **Sanithu Methnuka (s8170551)** – Lead forensic analysis, methodology design, report compilation  
+- **Laseya Wimalasiri (s8170583)** – Email tracing, evidence management, and documentat
 
 ---
 
