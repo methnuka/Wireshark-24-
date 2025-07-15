@@ -1,46 +1,55 @@
-📡 Network Forensics Project – Wireshark PCAP Analysis
-📖 About
-This project is a network forensic investigation done using Wireshark. We captured and analyzed network traffic (PCAP files) to find out who sent harassing emails to a professor at XYZ School.
+# 📡 Network Forensics Project – Wireshark PCAP Analysis
 
-🎯 What We Did
-Collected and analyzed email headers to find IP addresses.
+## 📖 About
 
-Used Wireshark to capture network traffic (HTTP, DNS, ARP, etc.)
+This is a simple network forensic investigation project done using **Wireshark**.  
+We captured and analyzed network traffic to find out who sent harassing emails in a university network.
 
-Tracked MAC addresses to identify devices.
+---
 
-Matched network activities to student records.
+## 🎯 What I Did
 
-Compiled forensic evidence (screenshots, hashes, packet logs).
+- Analyzed email headers to find IP addresses
+- Used **Wireshark** to capture and check DNS, ARP, and HTTP traffic
+- Tracked devices using MAC addresses
+- Matched network activity with student records
+- Collected and organized evidence for a report
 
-🛠️ Tools Used
-Wireshark
+---
 
-nslookup, traceroute
+## 🛠️ Tools Used
 
-Email header analyzers
+- Wireshark  
+- nslookup & traceroute  
+- Email header analyzers  
 
-Network monitoring tools
+---
 
-📌 Key Results
-Found that an Apple device (192.168.15.4) with MAC 00:17:f2:e2:c0:ce was used.
+## 📌 Results
 
-Detected access to anonymous email services like willselfdestruct.com.
+- Found suspicious activity from **192.168.15.4 (Apple device)**
+- MAC Address: **00:17:f2:e2:c0:ce**
+- Detected visits to **willselfdestruct.com**
+- Mapped the activity to a student in Chemistry 109 class
 
-Mapped this activity to a Chemistry 109 student.
+---
 
-📂 Files Included
-PCAP files
+## 📁 Files Included
 
-Email header screenshots
+- PCAP files  
+- Screenshots  
+- Network activity logs  
+- MAC & IP address lists  
 
-Activity timelines
+---
 
-MAC & IP address logs
+## 👤 Author
 
-Evidence with hash values
+**Sanithu Methnuka (s8170551)**  
 
-👥 Team Members
-Sanithu Methnuka (s8170551)
+---
 
-Laseya Wimalasiri (s8170583)
+## 📢 Note
+
+This project was done for **educational purposes only**.
+
